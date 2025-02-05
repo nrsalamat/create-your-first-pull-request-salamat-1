@@ -4,4 +4,8 @@ CMSC 100 - U3L
 
 In the course CMSC 100, I expect to gain extensive knowledge on web programming to be equipped with the necessary skills in both frontend and backend to develop webpages or applications for the web, such as learning more about HTML and CSS.
 
+
+Escarilla, Kristan Louie
+2023-65898
+
 I expect the same as Nathaniel. I too expect to be equipped with skills in frontend and backend programming by the end of the course.
